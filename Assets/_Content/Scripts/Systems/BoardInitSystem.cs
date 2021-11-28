@@ -4,13 +4,13 @@ using UnityEngine;
 
 namespace Game.Ecs.Systems
 {
-    public sealed class BoardInitSystem : IEcsInitSystem
+    public sealed class BoardInitSystem : IEcsRunSystem
     {
         private readonly EcsWorld _world = default;
         private readonly IConfig _config = default;
         private readonly IRandomService _random = default;
 
-        public void Init()
+        public void Run()
         {
             Random.InitState(2);
             for (int r = 0; r < _config.BoardSize.y / 2; r++)

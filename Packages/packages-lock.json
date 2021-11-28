@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e5edd6e007ccdb3725736c020a806bafdc6fb0c0"
+      "hash": "389f8b32b3a3e222c4a50eda3541d7d5e2e2d5a3"
     },
     "com.leopotam.ecs-unityintegration": {
       "version": "https://github.com/Leopotam/ecs-unityintegration.git",
@@ -13,6 +13,13 @@
       "source": "git",
       "dependencies": {},
       "hash": "47a1a8ea26342894459ec478d56856c3f71a7cab"
+    },
+    "com.nplekhanov.csx.leohot": {
+      "version": "https://github.com/kkolyan/leohot.git#classic",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "20f65f3d6ff69a2fa1abf7079070b83d94d16374"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",

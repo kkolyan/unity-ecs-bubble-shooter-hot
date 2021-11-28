@@ -2,6 +2,7 @@
   "dependencies": {
     "com.leopotam.ecs": "https://github.com/Leopotam/ecs.git",
     "com.leopotam.ecs-unityintegration": "https://github.com/Leopotam/ecs-unityintegration.git",
+    "com.nplekhanov.csx.leohot": "https://github.com/kkolyan/leohot.git#classic",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.textmeshpro": "2.1.1",
